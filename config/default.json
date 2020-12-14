@@ -1,0 +1,14 @@
+{ 
+    "Customer": {
+        "apiConfig":{
+            "host": "localhost",
+            "port": 3200
+            
+        },
+      "dbConfig": {
+        "host": "mongodb://127.0.0.1:27017/",
+        "dbName": "apiBoiler"
+      }
+
+    }
+  }
